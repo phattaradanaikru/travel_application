@@ -90,7 +90,3 @@ lib/
    flutter run -d chrome     # สำหรับเว็บ
    flutter run -d windows    # สำหรับ Windows
    ```
-
-## License
-
-ยังไม่มีการระบุไลเซนส์สำหรับโปรเจกต์นี้
